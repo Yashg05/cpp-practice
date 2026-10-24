@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.pch
+output.txt
+.DS_Store
+Thumbs.db
